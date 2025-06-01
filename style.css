@@ -70,7 +70,7 @@ section{
     height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url(Image/bg.jpg);
+    background-image: url(Image/app.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -402,7 +402,7 @@ section{
 /* Work */
 
 .work{
-    background-color: #000016;
+    background-color:rgb(231, 239, 242);
 }
 
 .work .content{
